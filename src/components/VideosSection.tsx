@@ -1,6 +1,6 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { Play } from "lucide-react";
+
 
 const videos = [
   { src: "/videos/video1.mp4", title: "Siddha Wellness Talk" },
